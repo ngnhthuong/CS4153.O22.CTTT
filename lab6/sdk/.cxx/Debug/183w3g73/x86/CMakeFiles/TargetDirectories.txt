@@ -1,0 +1,3 @@
+/Users/thuongnguyen/Downloads/Application-Development-Subject-main/LAB06/OpenCV-App/sdk/.cxx/Debug/183w3g73/x86/CMakeFiles/opencv_jni_shared.dir
+/Users/thuongnguyen/Downloads/Application-Development-Subject-main/LAB06/OpenCV-App/sdk/.cxx/Debug/183w3g73/x86/CMakeFiles/edit_cache.dir
+/Users/thuongnguyen/Downloads/Application-Development-Subject-main/LAB06/OpenCV-App/sdk/.cxx/Debug/183w3g73/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/Users/thuongnguyen/Downloads/Application-Development-Subject-main/LAB06/OpenCV-App/sdk/build/intermediates/cxx/Debug/183w3g73/obj/arm64-v8a
